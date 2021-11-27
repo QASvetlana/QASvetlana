@@ -3,11 +3,15 @@
 - :woman_technologist: I’m currently working in Innostage Company as a manuall QA
 - :monocle_face:  I’m currently learning in QA Automation in qa.guru
 - :slightly_smiling_face: I live in St. Petersburg
-- :writing_hand: Write and call me in Telegram: @SvetlanaAndree
+### :writing_hand:Contacts
+Telegram: @SvetlanaAndree
+
+Email: andreevasvetlana2017@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QASvetlana&show_icons=true&theme=radical)
 
-## Стек:
-| GitHub | IDEA | Java | Junit5 | Gradle | Selenide | Selenoid | Allure Report | Allure TO | Jenkins | Jira |
-|:--------:|:-------------:|:---------:|:-------:|:----:|:------:|:----:|:----:|:------:|:------:|:--------:|
-| <img src="images/GitHub.svg" width="40" height="40"> | <img src="images/IDEA.svg" width="40" height="40"> | <img src="images/JAVA.svg" width="40" height="40"> | <img src="images/Junit5.svg" width="40" height="40"> | <img src="images/Gradle.svg" width="40" height="40"> | <img src="images/Selenide.svg" width="40" height="40"> | <img src="images/Selenoid.svg" width="40" height="40"> | <img src="images/Allure Report.svg" width="40" height="40"> | <img src="images/Allure TestOps.svg" width="40" height="40"> | <img src="images/Jenkins.svg" width="40" height="40"> | <img src="images/Jira.svg" width="40" height="40"> |
+### :trophy: My skills
+| IntelliJ IDEA | Java | Junit5 | Gradle | Selenide | Selenoid | Allure Report | Jenkins | Jira | 
+|:-------------:|:---------:|:-------:|:----:|:------:|:----:|:----:|:------:|:------:|
+| <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" width="50" height="50"  alt="IntelliJ IDEA"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Java.svg" width="50" height="50"  alt="Java"> | <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="50" height="50"  alt="JUnit5"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" width="50" height="50"  alt="Gradle"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" width="50" height="50"  alt="Selenide"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" width="50" height="50"  alt="Selenoid"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" width="50" height="50"  alt="Allure Report"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="50" height="50"  alt="Jenkins"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="50" height="50"  alt="Jenkins"> |
