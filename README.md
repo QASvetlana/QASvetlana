@@ -9,7 +9,7 @@ Telegram: @SvetlanaAndree
 Email: andreevasvetlana2017@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QASvetlana&show_icons=true&theme=radical)
+
 
 ### :trophy: My skills
 | IntelliJ IDEA | Java | Junit5 | Gradle | Selenide | Selenoid | Allure Report | Jenkins | Jira | 
