@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :woman_technologist: I’m currently working in Innostage Company as a manuall QA
-- :monocle_face:  I’m currently learning in QA Automation in qa.guru
+- :woman_technologist: I’m currently working as manual QA at <a href="https://innostage-group.ru">Innostage</a>
+- :monocle_face:  I’m currently learning test automation at <a href="https://qa.guru/"> QA.guru</a>
 - :slightly_smiling_face: I live in St. Petersburg
 ### :writing_hand:Contacts
 Telegram: @SvetlanaAndree
