@@ -8,6 +8,9 @@ Telegram: @SvetlanaAndree
 
 Email: andreevasvetlana2017@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QASvetlana)](https://github.com/QASvetlana/github-readme-stats)
+
+
 
 
 
