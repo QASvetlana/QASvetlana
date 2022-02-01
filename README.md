@@ -1,8 +1,15 @@
 ### Hi there 👋
 
 - :woman_technologist: I’m currently working as manual QA at <a href="https://innostage-group.ru">Innostage</a>
-- :monocle_face:  I’m currently learning test automation at <a href="https://qa.guru/"> QA.guru</a>
-- :slightly_smiling_face: I live in St. Petersburg
+
+- :monocle_face:  I finished test automation course at <a href="https://qa.guru/"> QA.guru</a>
+ 
+My educational projects:
+ - https://github.com/QASvetlana/Innostage-group ( UI Tests ) 🖥
+ - https://github.com/QASvetlana/ReqresAPI ( API Tests ) 🎛
+ - https://github.com/QASvetlana/browserstack-appium_mobile_tests ( Mobile Tests) 📲
+ 
+ :slightly_smiling_face: I live in St. Petersburg
 ### :writing_hand:Contacts
 Telegram: @SvetlanaAndree
 
