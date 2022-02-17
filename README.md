@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- :woman_technologist: I’m currently working as manual QA at <a href="https://innostage-group.ru">Innostage</a>
+- :woman_technologist: I’m currently working as a QA at <a href="https://innostage-group.ru">Innostage</a>
 
-- :monocle_face:  I finished test automation course at <a href="https://qa.guru/"> QA.guru</a>
+- :monocle_face:  I learn and practice automation testing 
  
-My educational projects:
+My projects:
  - https://github.com/QASvetlana/Innostage-group ( UI Tests ) 🖥
  - https://github.com/QASvetlana/ReqresAPI ( API Tests ) 🎛
  - https://github.com/QASvetlana/browserstack-appium_mobile_tests ( Mobile Tests) 📲
