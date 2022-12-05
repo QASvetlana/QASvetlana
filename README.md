@@ -2,7 +2,7 @@
 
 - :woman_technologist: I’m currently working as a QA at <a href="https://innostage-group.ru">Innostage</a>
 
-- :monocle_face:  I learn and practice automation testing. Now I'm at the beginning of the path, so there will not be a lot of information here, but it will be supplemented over time. 
+- :monocle_face:  I learn and practice automation testing.  
  
 My projects:
  - https://github.com/QASvetlana/Innostage-group ( UI Tests ) 🖥
