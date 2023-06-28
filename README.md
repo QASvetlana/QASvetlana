@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :woman_technologist: I’m currently working as a QA at <a href="https://innostage-group.ru">Innostage</a>
+- :woman_technologist: I’m currently working as a QA
 
 - :monocle_face:  I learn and practice automation testing.  
  
