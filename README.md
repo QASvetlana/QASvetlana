@@ -11,7 +11,7 @@ My projects:
  
  :slightly_smiling_face: I live in St. Petersburg
 ### :writing_hand:Contacts
-Telegram: @SvetlanaAndree
+Telegram: @SvetaAndrevaA
 
 Email: andreevasvetlana2017@gmail.com
 
