@@ -10,7 +10,9 @@
 <a href="https://t.me/SvetaAndrevaA" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" height="20">
 </a>
-<a href="mailto:andreevasvetlana2017@gmail.com" target="_blank"><img alt="gmail.com" src="https://img.shields.io/badge/Gmail-%23FF0000.svg?&style=flat-square&logo=gmail&logoColor=white" height="20"></a>
+<a href="https://mail.google.com/mail/?view=cm&to=andreevasvetlana2017@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="20">
+</a>
 <a href="https://github.com/QASvetlana" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
 <a href="https://www.linkedin.com/in/svetlana-andreeva-a81880195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" height="20"></a> 
 </p>
