@@ -7,7 +7,7 @@
 <h4 align="center">I learn and practice automation testing. Here you will find my projects related to automated testing.</h4>
 
 <p align="center">
-<a href="https://t.me/your_username" target="_blank">
+<a href="https://t.me/SvetaAndrevaA" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" height="20">
 </a>
 <a href="mailto:andreevasvetlana2017@gmail.com" target="_blank"><img alt="gmail.com" src="https://img.shields.io/badge/Gmail-%23FF0000.svg?&style=flat-square&logo=gmail&logoColor=white" height="20"></a>
