@@ -36,20 +36,20 @@
 
 ## My Projects
 
-### 2. [E2E and API tests on Javascript](https://github.com/QASvetlana/JavaScript-Playwright-project)
-A repository with examples of tests on Javascript and Playwright.
+### 1. [E2E and API tests in JavaScript](https://github.com/QASvetlana/JavaScript-Playwright-project)  
+A repository with test examples written in JavaScript using Playwright.  
 
-### 2. [Unit, e2e and api tests on Typescript](https://github.com/QASvetlana/diplom)
-A repository with examples of tests on Typescript and WDIO.
+### 2. [Unit, E2E, and API tests in TypeScript](https://github.com/QASvetlana/diplom)  
+A repository with test examples written in TypeScript using WebdriverIO.  
 
-### 3. [E2E tests on Java](https://github.com/QASvetlana/Innostage-group)
-A test automation project using Selenide, Gradle, JUnit5. Includes examples of various types of tests, such as functional and regression tests.
+### 3. [E2E tests in Java](https://github.com/QASvetlana/Innostage-group)  
+A test automation project using Selenide, Gradle, and JUnit5. Includes examples of various types of tests, such as functional and regression tests.  
 
-### 4. [API tests on Java](https://github.com/QASvetlana/ReqresAPI)
-A set of API tests written for ReqresAPI. 
+### 4. [API tests in Java](https://github.com/QASvetlana/ReqresAPI)  
+A set of API tests written for Reqres API.  
 
-### 5. [Mobile App tests on Java](https://github.com/QASvetlana/browserstack-appium_mobile_tests)
-A repository with examples of mobile app testing on Android and iOS platforms using Appium and browserstack.
+### 5. [Mobile App tests in Java](https://github.com/QASvetlana/browserstack-appium_mobile_tests)  
+A repository with examples of mobile app testing on Android and iOS platforms using Appium and BrowserStack.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QASvetlana)](https://github.com/QASvetlana/github-readme-stats)
 
