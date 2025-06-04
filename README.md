@@ -56,10 +56,14 @@ A repository with examples of mobile app testing on Android and iOS platforms us
   <img src="IMG_0026.PNG" alt="JavaScript + Playwright QA Automation Engineer Certificate" width="500"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QASvetlana)](https://github.com/QASvetlana/github-readme-stats)
 
-## Stats
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QASvetlana&layout=compact)](https://github.com/QASvetlana/github-readme-stats)  
 ![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=QASvetlana&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
+
+</div>
+
 
 
 
