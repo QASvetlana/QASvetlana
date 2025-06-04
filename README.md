@@ -51,6 +51,11 @@ A set of API tests written for Reqres API.
 ### 5. [Mobile App tests in Java](https://github.com/QASvetlana/browserstack-appium_mobile_tests)  
 A repository with examples of mobile app testing on Android and iOS platforms using Appium and BrowserStack.  
 
+## Certificate  
+<div align="center">
+  <img src="IMG_0026.PNG" alt="JavaScript + Playwright QA Automation Engineer Certificate" width="500"/>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QASvetlana)](https://github.com/QASvetlana/github-readme-stats)
 
 ## Stats
