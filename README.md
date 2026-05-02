@@ -16,7 +16,6 @@
 - 🌱 Continuously improving my skills in test automation and software quality
 - 💬 Open to new opportunities — feel free to reach out
 
----
 
 ## 🛠 Languages & Tools
 
