@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">Hi there, I'm Svetlana! 👋</h2>
-<h3 align="center">QA Automation Engineer · JavaScript · TypeScript · Playwright</h3>
+<h3 align="center">QA Engineer · Manual & Automation · JavaScript · TypeScript · Playwright</h3>
 
 <p align="center">
   <a href="https://t.me/SvetaAndrevaA" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" height="22"></a>
@@ -16,10 +16,11 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as a **QA Automation Engineer**
+- 🔍 **Full-stack QA Engineer** — comfortable with both **manual** and **automation** testing
 - 🛠 Specializing in **UI, E2E and API test automation** using JavaScript & TypeScript
-- ✅ Experienced with **Page Object Model**, CI/CD pipelines, and Allure reporting
-- 📱 Familiar with **mobile testing** on Android & iOS via Appium and BrowserStack
+- 📋 Experienced in **test planning, test design, bug reporting** and working with requirements
+- ✅ Familiar with **Page Object Model**, CI/CD pipelines, and Allure reporting
+- 📱 Experience with **mobile testing** on Android & iOS via Appium and BrowserStack
 - 🌱 Continuously improving my skills in test automation and software quality
 - 💬 Open to new opportunities — feel free to reach out!
 
@@ -59,8 +60,6 @@ Automated UI tests for the **Topklik** b2b solution. Covers authentication, UI c
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QASvetlana&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/QASvetlana)&nbsp;&nbsp;[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QASvetlana&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/QASvetlana)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=QASvetlana&theme=tokyonight&hide_border=true)](https://github.com/QASvetlana)
 
