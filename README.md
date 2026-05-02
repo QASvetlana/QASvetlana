@@ -16,13 +16,13 @@
 
 ## 👩‍💻 About Me
 
-- 🔍 **Full-stack QA Engineer** — comfortable with both **manual** and **automation** testing
-- 🛠 Specializing in **UI, E2E and API test automation** using JavaScript & TypeScript
-- 📋 Experienced in **test planning, test design, bug reporting** and working with requirements
-- ✅ Familiar with **Page Object Model**, CI/CD pipelines, and Allure reporting
-- 📱 Experience with **mobile testing** on Android & iOS via Appium and BrowserStack
+- 🔍 **Fullstack QA Engineer** - comfortable with both manual and automation testing
+- 🛠 Specializing in UI, E2E and API test automation using JavaScript & TypeScript
+- 📋 Experienced in test planning, test design, bug reporting and working with requirements
+- ✅ Familiar with Page Object Model, CI/CD pipelines, and Allure reporting
+- 📱 Experience with mobile testing on Android & iOS via Appium and BrowserStack
 - 🌱 Continuously improving my skills in test automation and software quality
-- 💬 Open to new opportunities — feel free to reach out!
+- 💬 Open to new opportunities — feel free to reach out
 
 ---
 
@@ -43,14 +43,14 @@ A repository with test examples written in JavaScript using Playwright.
 
 ---
 
-### 2. [Unit, E2E, and API tests in TypeScript](https://github.com/QASvetlana/diplom)
+### 2. [Unit, E2E and API tests in TypeScript](https://github.com/QASvetlana/diplom)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
 
 A repository with test examples written in TypeScript using WebdriverIO.
 
 ---
 
-### 3. [UI & E2E tests for Topklik](https://github.com/QASvetlana/playwright-test)
+### 3. [UI and E2E tests for Topklik](https://github.com/QASvetlana/playwright-test)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Allure](https://img.shields.io/badge/Allure_Report-FF6B35?style=flat-square&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 Automated UI tests for the **Topklik** b2b solution. Covers authentication, UI component testing (toggles, table top shapes), and an end-to-end order assembly scenario. Built with Page Object Pattern and integrated with Allure reports and GitHub Actions CI/CD.
