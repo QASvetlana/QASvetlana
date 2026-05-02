@@ -51,7 +51,7 @@ A repository with test examples written in TypeScript using WebdriverIO.
 ---
 
 ### 3. [UI & E2E tests for Topklik](https://github.com/QASvetlana/playwright-test)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Allure](https://img.shields.io/badge/Allure_Report-FF6B35?style=flat-square&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Allure](https://img.shields.io/badge/Allure_Report-FF6B35?style=flat-square&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 Automated UI tests for the **Topklik** b2b solution. Covers authentication, UI component testing (toggles, table top shapes), and an end-to-end order assembly scenario. Built with Page Object Pattern and integrated with Allure reports and GitHub Actions CI/CD.
 
