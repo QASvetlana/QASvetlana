@@ -5,6 +5,21 @@
 <h2 align="center">Hi there, I'm Svetlana! 👋</h2>
 <h3 align="center">QA Engineer · Manual & Automation · JavaScript · TypeScript · Playwright</h3>
 
+
+## 👩‍💻 About Me
+
+- 🔍 **Fullstack QA Engineer** - comfortable with both manual and automation testing
+- 🛠 Specializing in UI, E2E and API test automation using JavaScript & TypeScript
+- 📋 Experienced in test planning, test design, bug reporting and working with requirements
+- ✅ Familiar with Page Object Model, CI/CD pipelines, and Allure reporting
+- 📱 Experience with mobile testing on Android & iOS via Appium and BrowserStack
+- 🌱 Continuously improving my skills in test automation and software quality
+- 💬 Open to new opportunities — feel free to reach out
+
+---
+
+## 🛠 Languages & Tools
+
 <div align="center">
   <table>
     <tr>
@@ -24,26 +39,6 @@
     </tr>
   </table>
 </div>
----
-
-## 👩‍💻 About Me
-
-- 🔍 **Fullstack QA Engineer** - comfortable with both manual and automation testing
-- 🛠 Specializing in UI, E2E and API test automation using JavaScript & TypeScript
-- 📋 Experienced in test planning, test design, bug reporting and working with requirements
-- ✅ Familiar with Page Object Model, CI/CD pipelines, and Allure reporting
-- 📱 Experience with mobile testing on Android & iOS via Appium and BrowserStack
-- 🌱 Continuously improving my skills in test automation and software quality
-- 💬 Open to new opportunities — feel free to reach out
-
----
-
-## 🛠 Languages & Tools
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hhc3JqaDgyN3JibTdnaG5najE5bGthcWw3YWpiZmtjNDNyNW9leCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="36" height="36" /><img src="https://softfinder.ru/upload/styles/logo/public/logo/logo-2605.png?itok=vqVq1c7j" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="36" height="36" /><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdrcXF4am14YWVxeGp4MnJmMThjOThpcjQ5Zm50bXc3dHRyaXY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" title="GitHub" alt="GitHub" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="36" height="36" /><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVleDFxZzBoZThhd2dxZXI3MXFycm82MTBiczJnYmdqaDJ0eXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="36" height="36" /><img src="https://github.com/allure-framework/allure2/blob/main/.idea/icon.png" title="Allure Report" alt="Allure Report" width="36" height="36" /><img src="https://fakerjs.dev/logo.svg" width="36" height="36" /><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="36" height="36" />
-</p>
-
 ---
 
 ## 📂 My Projects
